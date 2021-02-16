@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>679718217739-0v55b31fnmbbuesdmrpjcds3vn2unq1t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.679718217739-0v55b31fnmbbuesdmrpjcds3vn2unq1t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCh_wux1KDYHKl4fxfqfAcKddNSwb5chMU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>679718217739</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.corytepper.CWC-Journal-App</string>
+	<key>PROJECT_ID</key>
+	<string>firestore-journal-app-be97d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firestore-journal-app-be97d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:679718217739:ios:581a17f6078f77e9c2ff0e</string>
+</dict>
+</plist>
